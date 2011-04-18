@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroQConsole", "ZeroQConsole\ZeroQConsole.csproj", "{4E7BA8FE-30B5-494F-82F8-A8DA568BBACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroQClient", "ZeroQClient\ZeroQClient.csproj", "{21F7F0F0-B574-435B-BC51-55F1039444CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroQStressClient", "ZeroQStressClient\ZeroQStressClient.csproj", "{AC512911-DF9C-4818-8DA2-1673116B1A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7BA8FE-30B5-494F-82F8-A8DA568BBACB}.Debug|x86.ActiveCfg = Debug|x86
+		{4E7BA8FE-30B5-494F-82F8-A8DA568BBACB}.Debug|x86.Build.0 = Debug|x86
+		{4E7BA8FE-30B5-494F-82F8-A8DA568BBACB}.Release|x86.ActiveCfg = Release|x86
+		{4E7BA8FE-30B5-494F-82F8-A8DA568BBACB}.Release|x86.Build.0 = Release|x86
+		{21F7F0F0-B574-435B-BC51-55F1039444CB}.Debug|x86.ActiveCfg = Debug|x86
+		{21F7F0F0-B574-435B-BC51-55F1039444CB}.Debug|x86.Build.0 = Debug|x86
+		{21F7F0F0-B574-435B-BC51-55F1039444CB}.Release|x86.ActiveCfg = Release|x86
+		{21F7F0F0-B574-435B-BC51-55F1039444CB}.Release|x86.Build.0 = Release|x86
+		{AC512911-DF9C-4818-8DA2-1673116B1A52}.Debug|x86.ActiveCfg = Debug|x86
+		{AC512911-DF9C-4818-8DA2-1673116B1A52}.Debug|x86.Build.0 = Debug|x86
+		{AC512911-DF9C-4818-8DA2-1673116B1A52}.Release|x86.ActiveCfg = Release|x86
+		{AC512911-DF9C-4818-8DA2-1673116B1A52}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
